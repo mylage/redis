@@ -1,6 +1,6 @@
 {
     "name": "mylarge/redis",
-    "description": "redis甯哥敤鏂规硶灏佽",
+    "description": "redis常用方法封装",
     "type": "library",
     "require": {
         "php": ">=7.0",
