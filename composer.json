@@ -1,0 +1,23 @@
+{
+    "name": "mylarge/redis",
+    "description": "redis甯哥敤鏂规硶灏佽",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "ext-redis": "*",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "mylarge\\redis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mylarge",
+            "email": "my@mylarge.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

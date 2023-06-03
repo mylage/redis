@@ -1,0 +1,11 @@
+{
+    "host": "127.0.0.1",
+    "port": 6379,
+    "password": "",
+    "db": 0,
+    "timeout": 0,
+    "expire": 0,
+    "persistent": false,
+    "prefix": "9a8248:",
+    "prefix_validate": "00aa2a9e723061a0aecd2a7eee143f7a"
+}
